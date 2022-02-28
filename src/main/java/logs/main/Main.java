@@ -11,8 +11,8 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Logs l = new Logs();
-		l.write("[+] connection estabilished", "C:/Users/Hk/Documents/cong.txt");
-		l.write("[+] succefully connected!", "C:/Users/Hk/Documents/cong.txt");
+		l.write("[+] connection estabilished", "C:/Users/User1/MyBigProject/logs.txt");
+		l.write("[+] succefully connected!", "C:/Users/User1/MyBigProject/logs.txt");
 
 	}
 
@@ -20,5 +20,5 @@ public class Main {
 
 
 /**
-faire en sorte que la ligne precedente ne se reset pas et c bouclé
+faire en sorte que la ligne precedente ne se reset pas et c bouclÃ©
 **/

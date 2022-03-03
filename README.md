@@ -15,7 +15,7 @@ public static void main(String[] args) {
 
 	}
 ```
-### Output:
+### Output (logs.txt):
 ```
 28/02/2022 20:13:37 [+] connection estabilished
 28/02/2022 20:13:37 [+] succefully connected!

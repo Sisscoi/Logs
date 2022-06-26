@@ -20,3 +20,6 @@ public static void main(String[] args) {
 28/02/2022 20:13:37 [+] connection estabilished
 28/02/2022 20:13:37 [+] succefully connected!
 ```
+
+## Javadoc : 
+there is no Javadoc linked to this project, because the number of functions is laughable.

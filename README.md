@@ -8,10 +8,10 @@ maven package coming soon
 ## Example:
 ```java
 public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		public final static String DEFAULT_PATH = "C:/Users/User1/MyBigProject/logs.txt";
 		Logs l = new Logs();
-		l.write("[+] connection estabilished", "C:/Users/User1/MyBigProject/logs.txt");
-		l.write("[+] succefully connected!", "C:/Users/User1/MyBigProject/logs.txt");
+		l.write("[+] connection estabilished", DEFAULT_PATH);
+		l.write("[+] succefully connected!", DEFAULT_PATH);
 
 	}
 ```
